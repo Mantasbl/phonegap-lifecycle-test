@@ -6,7 +6,7 @@
         id        = "mob.app.dev.lifecycle"
         version   = "1.0.0">
 
-    <name>Application Lifecycle Test</name>
+    <name>This is a Rebuilt application with Hydration On</name>
 
     <description>
         A sample application that counts the occurances of lifecycle events.
